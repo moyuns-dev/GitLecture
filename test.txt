@@ -1,2 +1,3 @@
 hell github
 add line
+welcome to study git 
